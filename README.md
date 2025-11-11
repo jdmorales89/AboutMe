@@ -1,7 +1,6 @@
 👋 Hi, I’m David Morales (@jdmorales89)
 - 👀 I’m interested in energy management, programming, and reservoir engineering
 - 🌱 I’m currently learning Business Administration, Python, and Data Analysis
-- 💞️ I’m looking for working student jobs in the area of renewable energies
 - 📫 How to reach me: jdmorales89@gmail.com
 
 <!---
